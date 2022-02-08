@@ -1,0 +1,239 @@
+<html lang="en">
+	<head>
+		<title> ENHYPEN </title>
+	</head>	
+		<style>
+			
+			body{
+				margin:0;
+				padding:0;
+				background: url(bg1.png);
+				background-size: cover;
+				}
+		
+			nav{
+				width:100%;
+				background:black;
+				overflow:auto;
+				}
+		
+			ul {
+				padding:0;
+				margin: 0 0 0 150px;
+				list-style:none;
+				}
+			
+			li{
+				float:right;
+				}
+		
+			.logo img{
+				position:absolute;
+				height:55px;
+				margin-top:10px;
+				margin-left:5px;
+				}
+		
+			nav a{
+				width:100px;
+				display:block;
+				padding:25px 40px;
+				text-decoration:none;
+				font-family:Arial;
+				color:#f2f2f2;
+				text-align:center;
+				}
+		
+			nav a:hover{
+				background:gray;
+				transition:0.5s;
+				text-transform:uppercase;
+				}
+		
+			#mem{
+				text-align:center;
+				font-size:15;
+				font-family:Merriweather;
+				color:black;
+				background:#dcdcdc;
+				padding: 20px;
+				margin: 0 auto;
+				width:330px;
+				}
+		
+			#memcont{
+				text-align:center;
+				font-size:15;
+				color: white;
+				padding: 20px;
+				}
+		
+		</style>
+	
+	<body>
+		<div class="logo"><img src="logo.jpg">
+		</div>
+		
+		<nav>
+			<ul>
+				<li><a href="REFERENCES.html">References</a></li>
+				<li><a href="CLIPS.html">Clips</a></li>
+				<li><a href="ACHIEVEMENTS.html">Achievements</a></li>
+				<li><a href="LOCATION.html">Location</a></li>
+				<li><a href="MEMBERS.html">Members</a></li>
+				<li><a href="index.html">Main</a></li>
+			</ul>
+		</nav>
+		
+		<h1 id="mem">
+			<font face= "Arial" size="5"><strong>MEMBERS:</strong></font>
+		</h1>
+		<br>
+		
+		<center><img src="won1.png" width="200" height="200" style="float:center"></center>
+			<p id="memcont">
+				<u>Birth Name</u>: Yang Jung-won (양정원)
+				<br>
+				<u>Stage Name</u>: Jungwon (정원)
+				<br>
+				<u>Date of Birth</u>: South Korea, February 9, 2004
+				<br>
+				<u>Age</u>: 17 years old
+				<br>
+				<u>Zodiac Sign</u>: Aquarius
+				<br>
+				<u>Height</u>: 175 cm
+				<br>
+				<u>Blood Type</u>: AB
+				<br>
+				<u>Quote</u>:
+				<q><i> Hard work never betrays</i></q>
+			</p>
+			
+		<hr width ="100%" align="left">	
+		<center><img src="hee.png" width="200" height="200" style="float:center"></center>
+			<p id="memcont">
+				<u>Birth Name</u>: Lee Hee-seung (이희승)
+				<br>
+				<u>Stage Name</u>: Heeseung (희승)
+				<br>
+				<u>Date of Birth</u>:South Korea, October 15, 2001
+				<br>
+				<u>Age</u>: 20 years old
+				<br>
+				<u>Zodiac Sign</u>: Libra   
+				<br>
+				<u>Height</u>:  182.5 cm
+				<br>
+				<u>Blood Type</u>: A
+				<br>
+			</p>
+			
+		<hr width ="100%" align="left">
+		<center><img src="jay.png" width="200" height="200" style="float:center"></center>
+		<p id="memcont">
+				<u>Birth Name</u>: Jay Park
+				<br>
+				<u>Stage Name</u>:  Jay (제이)
+				<br>
+				<u>Date of Birth</u>: Seattle, Washington, US, April 20, 2002
+				<br>
+				<u>Age</u>: 19 years old
+				<br>
+				<u>Zodiac Sign</u>: Aries
+				<br>
+				<u>Height</u>: 180 cm
+				<br>
+				<u>Blood Type</u>: B
+				<br>
+				<u>Quote</u>:
+				<q><i> It's not a crime to not be able to do it out of fear</i></q>
+			</p>
+		
+		<hr width ="100%" align="left">		
+		<center><img src="jake.png" width="200" height="200" style="float:center"></center>
+		<p id="memcont">
+				<u>Birth Name</u>: Jake Sim
+				<br>
+				<u>Stage Name</u>: Jake (제이크)
+				<br>
+				<u>Date of Birth</u>: South Korea, November 15, 2002
+				<br>
+				<u>Age</u>:  19 years old
+				<br>
+				<u>Zodiac Sign</u>: Scorpio
+				<br>
+				<u>Height</u>: 176 cm
+				<br>
+				<u>Blood Type</u>: O
+				<br>
+			</p>
+		
+		<hr width ="100%" align="left">
+		<center><img src="hoon.png" width="200" height="200" style="float:center"></center>
+		<p id="memcont">
+				<u>Birth Name</u>:Park Sung-hoon (박성훈)
+				<br>
+				<u>Stage Name</u>:  Sunghoon (성훈)
+				<br>
+				<u>Date of Birth</u>:  South Korea, December 8, 2002
+				<br>
+				<u>Age</u>: 18 years old
+				<br>
+				<u>Zodiac Sign</u>: Sagittarius
+				<br>
+				<u>Height</u>: 181 cm
+				<br>
+				<u>Blood Type</u>: O
+				<br>
+				<u>Quote</u>:
+				<q><i>Always believe in yourself and it's okay to fall</i></q>
+			</p>
+		
+		<hr width ="100%" align="left">
+		<center><img src="sunoo.png" width="200" height="200" style="float:center"></center>
+		<p id="memcont">
+				<u>Birth Name</u>: Kim Sun-oo (김선우)
+				<br>
+				<u>Stage Name</u>:  Sunoo (선우)
+				<br>
+				<u>Date of Birth</u>: South Korea, June 24, 2003
+				<br>
+				<u>Age</u>: 18 years old
+				<br>
+				<u>Zodiac Sign</u>: Cancer
+				<br>
+				<u>Height</u>: 177 cm
+				<br>
+				<u>Blood Type</u>: O
+			</p>
+		
+		<hr width ="100%" align="left">
+		<center><img src="riki.png" width="200" height="200" style="float:center"></center>
+		<p id="memcont">
+				<u>Birth Name</u>: Nishimura Riki (西村リキ)
+				<br>
+				<u>Stage Name</u>:  Ni-ki (니키)
+				<br>
+				<u>Date of Birth</u>: Japan, December 9, 2005
+				<br>
+				<u>Age</u>: 15 years old
+				<br>
+				<u>Zodiac Sign</u>: Sagittarius
+				<br>
+				<u>Height</u>:  183 cm
+				<br>
+				<u>Blood Type</u>: B
+			</p>
+			
+		<hr width ="100%" align="left">	
+			<p>
+				<blockquote>© No copyright infringement intended</blockquote>
+			</p>
+			
+			<p>
+				<blockquote>© For educational purposes only</blockquote>
+			</p>
+	
+	</body>
+</html>

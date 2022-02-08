@@ -1,0 +1,218 @@
+<html lang="en">
+	<head>
+		<title> ENHYPEN </title>
+	</head>	
+		<style>
+		
+			body{
+				margin:0;
+				padding:0;
+				background: url(bg2.jpeg);
+				background-size: cover;
+				}
+		
+			nav{
+				width:100%;
+				background:black;
+				overflow:auto;
+				}
+		
+			ul {
+				padding:0;
+				margin: 0 0 0 150px;
+				list-style:none;
+				}
+			
+			li{
+				float:right;
+				}
+		
+			.logo img{
+				position:absolute;
+				height:55px;
+				margin-top:10px;
+				margin-left:5px;
+				}
+		
+			nav a{
+				width:100px;
+				display:block;
+				padding:25px 40px;
+				text-decoration:none;
+				font-family:Arial;
+				color:#f2f2f2;
+				text-align:center;
+				}
+		
+			nav a:hover{
+				background:gray;
+				transition:0.5s;
+				text-transform:uppercase;
+				}
+			
+			#text{
+				text-align:left;
+				font-size:30;
+				font-family:Merriweather;
+				color:black;
+				}
+			
+			#text2{
+				text-align:center;
+				font-size:15;
+				font-family:Merriweather;
+				color:black;
+				}
+			
+			table {
+				border-collapse:collapse;
+				}
+		
+			table th{
+				text-align:center;
+				background-color:#3a6070;
+				color:#FFF;
+				padding: 8px 60px 8px 16px;
+				}
+		
+			table td{
+				border: 1.2px solid #000000 ;
+				padding: 8px 16px;
+			
+		</style>
+	
+	<body>
+		<div class="logo"><img src="logo.jpg">
+		</div>
+		
+		<nav>
+			<ul>
+				<li><a href="REFERENCES.html">References</a></li>
+				<li><a href="CLIPS.html">Clips</a></li>
+				<li><a href="ACHIEVEMENTS.html">Achievements</a></li>
+				<li><a href="LOCATION.html">Location</a></li>
+				<li><a href="MEMBERS.html">Members</a></li>
+				<li><a href="index.html">Main</a></li>
+			</ul>
+		</nav>
+		
+		<h1 id="text"> • ENHYPEN ACHIEVEMENTS</h1>
+		<center><table>
+		<div class="table"></div>
+		<div class="table th"></div>
+		<div class="table td"></div>
+			<tr>
+				<th>Award Ceremony</th>
+				<th>Year</th>
+				<th>Category</th>
+				<th>Nominee/work(s)</th>
+				<th>Result</th>
+			</tr>
+			<tr>
+				<td rowspan="3" align="center" bgcolor=#C1C1C1>The Fact Music Awards</td>
+				<td align="center" bgcolor=#C1C1C1>2020</td>
+				<td align="center" bgcolor=#C1C1C1>Next Leader Award</td>
+				<td rowspan="7" align="center" bgcolor=#C1C1C1>Enhypen</td>
+				<td align="center" bgcolor="green">WON</td>
+			</tr>
+			<tr>
+				<td rowspan="2" align="center" bgcolor=#C1C1C1>2021</td>
+				<td align="center" bgcolor=#C1C1C1>Artist of the Year (Bonsang)</td>
+				<td align="center" bgcolor="green">WON</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor=#C1C1C1>Fan N Star Choice Award (Artist)</td>
+				<td align="center" bgcolor=#C4EBF1>NOMINATED</td>
+			</tr>
+			<tr>
+				<td rowspan="2" align="center" bgcolor=#C1C1C1>Asia Artist Awards</td>
+				<td rowspan="2" align="center" bgcolor=#C1C1C1>2021</td>
+				<td align="center" bgcolor=#C1C1C1>Male Idol Group Popularity Award</td>
+				<td align="center" bgcolor=#FFFBC8>PENDING</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor=#C1C1C1>U+ Idol Live Popularity Award</td>
+				<td align="center" bgcolor=#FFFBC8>PENDING</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor=#C1C1C1>Brand Customer Loyalty Awards</td>
+				<td align="center" bgcolor=#C1C1C1>2021</td>
+				<td align="center" bgcolor=#C1C1C1> Rokies Male Idol Award</td>
+				<td align="center" bgcolor=#C4EBF1>NOMINATED</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor=#C1C1C1>Brand of the Year Awards</td>
+				<td align="center" bgcolor=#C1C1C1>2021</td>
+				<td align="center" bgcolor=#C1C1C1>Rookie Male Idol Award</td>
+				<td align="center" bgcolor=#C4EBF1>NOMINATED</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor=#C1C1C1>Gaon Chart Music Awards</td>
+				<td align="center" bgcolor=#C1C1C1>2021</td>
+				<td align="center" bgcolor=#C1C1C1>New Artist of the Year- Physical</td>
+				<td align="center" bgcolor=#C1C1C1>Border: Day One</td>
+				<td align="center" bgcolor="green">WON</td>
+			</tr>
+		</table></center>
+		
+		<hr width ="100%" align="left">
+		<h1 id="text"> • Endorsements</h1>
+		<center><img src="abib.jfif" width="600"></center>
+			<p id="text2"><b>
+				In June 2021, Enhypen was announced as the first global 
+				ambassadors of the French fashion brand, "Ami".
+			</p></b>
+			<br>
+		<center><img src="ami.jfif" width="600"></center>
+			<p id="text2"><b>
+				 In October of the same year, Enhypen was announced as the new Global 
+				 Model of “Abib”, a new Korean skincare brand.
+			</p></b>
+		
+		<hr width ="100%" align="left">
+		<h1 id="text"> • PRE-DEBUT (ILAND)</h1>
+		<center><img src="iland.jpeg" width="500"></center>
+			<p id="text2">
+				•I-Land is a South Korean boy group survival reality show organised by Belift Lab, 
+				which is a joint venture between the entertainment companies CJ E&M and Hybe Corporation.
+			</p>
+			
+			<p id="text2">
+				•Auditions commenced the same month in Seoul, the United States, Taiwan, and Japan,
+				among others, for male trainees born between 1997 and 2008.
+			</p>
+			
+			<p id="text2">
+				•On May 8, 2020, television channel Mnet announced the survival competition series, 
+				I-Land, a joint venture of both companies that "follows the process of next generation
+				K-pop artists being born".
+			</p>
+			
+			<p id="text2">
+				•A total of 23 male trainees participated in the show. In the show's finale on 
+				September 18, 2020, the final 7 members debuted as Enhypen.
+			</p>
+			
+			<p id="text2">
+				•The show was split into two parts. 12 contestants from the first part made it
+				to the second part of the series.
+			</p>
+			
+			<p id="text2">
+				•On the final episode of the show, seven members were selected out of the nine final
+				contestants, with six being chosen by global ranking and the last member by the producer's choice.
+			</p>
+		
+		<hr width ="100%" align="left">	
+			<p>
+				<blockquote>© No copyright infringement intended</blockquote>
+			</p>
+			
+			<p>
+				<blockquote>© For educational purposes only</blockquote>
+			</p>
+		
+		
+		
+	</body>
+</html>

@@ -1,0 +1,249 @@
+<html lang="en">
+	<head>
+		<title> ENHYPEN </title>
+	</head>	
+		<style>
+		
+			body{
+				margin:0;
+				padding:0;
+				background: url(bg2.jpeg);
+				background-size: cover;
+				}
+		
+			nav{
+				width:100%;
+				background:black;
+				overflow:auto;
+				}
+		
+			ul {
+				padding:0;
+				margin: 0 0 0 150px;
+				list-style:none;
+				}
+			
+			li{
+				float:right;
+				}
+		
+			.logo img{
+				position:absolute;
+				height:55px;
+				margin-top:10px;
+				margin-left:5px;
+				}
+		
+			nav a{
+				width:100px;
+				display:block;
+				padding:25px 40px;
+				text-decoration:none;
+				font-family:Arial;
+				color:#f2f2f2;
+				text-align:center;
+				}
+		
+			nav a:hover{
+				background:gray;
+				transition:0.5s;
+				text-transform:uppercase;
+				}
+			
+			#text{
+				text-align:left;
+				font-size:30;
+				font-family:Merriweather;
+				color:black;
+				}
+			
+			#text2{
+				text-align:center;
+				}
+			
+			table {
+				border-collapse:collapse;
+				}
+		
+			table th{
+				text-align:center;
+				background-color:#3a6070;
+				color:#FFF;
+				padding: 8px 60px 8px 16px;
+				}
+		
+			table td{
+				border: 1px solid #000000 ;
+				padding: 8px 16px;
+				}
+			
+		</style>
+	
+	<body>
+		<div class="logo"><img src="logo.jpg">
+		</div>
+		
+		<nav>
+			<ul>
+				<li><a href="REFERENCES.html">References</a></li>
+				<li><a href="CLIPS.html">Clips</a></li>
+				<li><a href="ACHIEVEMENTS.html">Achievements</a></li>
+				<li><a href="LOCATION.html">Location</a></li>
+				<li><a href="MEMBERS.html">Members</a></li>
+				<li><a href="index.html">Main</a></li>
+			</ul>
+		</nav>
+		
+		<h1 id="text"> • TIMELINE</h1>
+		<center><table>
+		<div class="table"></div>
+		<div class="table th"></div>
+		<div class="table td"></div>
+			<tr>
+				<th>ERA</th>
+				<th>JUNGWON</th>
+				<th>HEESEUNG</th>
+				<th>JAY</th>
+				<th>JAKE</th>
+				<th>SUNGHOON</th>
+				<th>SUNOO</th>
+				<th>NI-KI</th>
+			</tr>
+			<tr>
+				<td align="center" bgcolor=#C1C1C1>GIFS</td>
+				<td align="center" bgcolor=#C1C1C1><img src="j1.gif" width="210"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="h1.gif" width="190"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="jy1.gif" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="jk1.gif" width="150"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="hoon1.gif" width="150"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="sn1.gif" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="nk1.gif" width="150"></td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor=#C1C1C1>BABY PICTURES</td>
+				<td align="center" bgcolor=#C1C1C1><img src="jb1.jpg" width="210"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="hb1.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="jyb1.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="jkb1.jpg" width="150"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="hoonb.jpg" width="150"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="snb1.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="nkb1.jpg" width="150"></td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor=#C1C1C1>PRE-DEBUT</td>
+				<td align="center" bgcolor=#C1C1C1><img src="jp1.jfif" width="190"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="HP1.jpg" width="150" height="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="jyp1.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="jkp1.jpg" width="150"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="hoonp.jpg" width="150"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="snp1.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="nkp1.jpg" width="150"></td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor=#C1C1C1>ILAND</td>
+				<td align="center" bgcolor=#C1C1C1><img src="i1.jpg" width="210"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="i2.jfif" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="i3.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="i4.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="i5.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="i6.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="i7.png" width="200"></td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor=#C1C1C1>D:D</td>
+				<td align="center" bgcolor=#C1C1C1><img src="01.jfif" width="210"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="02.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="03.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="04.jpg" width="150"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="05.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="06.jpg" width="200"></td>
+				<td align="center" bgcolor=#C1C1C1><img src="07.jpg" width="150"></td>
+			</tr>
+		</table></center>
+		
+		<hr width ="100%" align="left">
+		<h1 id="text"> • BORDER : DAY ONE Preview </h1>
+			<p id="text2">
+			<iframe width="900" height="500" src="https://www.youtube.com/embed/pnhSnVQncvU" title="YouTube video player" frameborder="0" 
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+			</iframe>
+			</p>
+		
+		<hr width ="100%" align="left">
+		<h1 id="text"> • Given-Taken Trailer 1</h1>
+			<p id="text2">
+				<iframe width="900" height="500" src="https://www.youtube.com/embed/i1_x7AwUGYE" title="YouTube video player" frameborder="0" 
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+				</iframe>
+			</p>
+			<br>
+		
+		<hr width ="100%" align="left">
+		<h1 id="text"> • Given-Taken Trailer 2</h1>
+			<p id="text2">
+			<iframe width="900" height="500" src="https://www.youtube.com/embed/lnrUJr8B7oI" title="YouTube video player" frameborder="0" 
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+			</iframe>
+			</p>
+			<br>
+			
+		<hr width ="100%" align="left">
+		<h1 id="text"> • BORDER : CARNIVAL Preview</h1>
+			<p id="text2">
+			<iframe width="900" height="500" src="https://www.youtube.com/embed/ZxW5GYpPWSY" title="YouTube video player" frameborder="0" 
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+			</iframe>
+			</p>
+		
+		<hr width ="100%" align="left">
+		<h1 id="text"> • Drunk-Dazed Official Teaser 1</h1>
+			<p id="text2">
+			<iframe width="900" height="500" src="https://www.youtube.com/embed/wPgdu8dnbF0" title="YouTube video player" frameborder="0" 
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+			</iframe>
+			</p>
+		
+		<hr width ="100%" align="left">
+		<h1 id="text"> • Drunk-Dazed Official Teaser 2</h1>
+			<p id="text2">
+			<iframe width="900" height="500" src="https://www.youtube.com/embed/JHdmLf8EeAU" title="YouTube video player" frameborder="0" 
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+			</iframe>
+			</p>
+			
+		<hr width ="100%" align="left">
+		<h1 id="text"> • DIMENSION : DILEMMA Preview</h1>
+			<p id="text2">
+			<iframe width="900" height="500" src="https://www.youtube.com/embed/utL189MfJNs" title="YouTube video player" frameborder="0"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+			</iframe>
+			</p>
+		
+		<hr width ="100%" align="left">
+		<h1 id="text"> • Tamed-Dashed Official Teaser 1</h1>
+			<p id="text2">
+			<iframe width="900" height="500" src="https://www.youtube.com/embed/lU61dUvG75k" title="YouTube video player" frameborder="0" 
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+			</iframe>
+			</p>
+		
+		<hr width ="100%" align="left">
+		<h1 id="text"> • Tamed-Dashed Official Teaser 2</h1>
+			<p id="text2">
+			<iframe width="900" height="500" src="https://www.youtube.com/embed/99vdZNk27ME" title="YouTube video player" frameborder="0"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+			</iframe>
+			</p>
+			
+		
+		<hr width ="100%" align="left">	
+			<p>
+				<blockquote>© No copyright infringement intended</blockquote>
+			</p>
+			
+			<p>
+				<blockquote>© For educational purposes only</blockquote>
+			</p>
+			
+	</body>
+</html>
